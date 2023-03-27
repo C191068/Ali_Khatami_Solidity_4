@@ -9,8 +9,8 @@ Figure1:Here we gonna change the ```environment``` of the ```Deploy and Run tran
 Figure2:Then we will pick up our metamask account and select ```Next```<br>
 ![bl7](https://user-images.githubusercontent.com/89090776/227702411-2a1e3a59-be41-4262-8608-0c9c64bcc414.jpg)
 Figure3: Then we will click ```Connect``` button <br>
-![bx1](https://user-images.githubusercontent.com/89090776/227889927-e99e9214-430c-4f8c-be36-b95ed407fed4.jpg)
-Figure4: In the above figure you can see my account is running at ```sepolia test network```<br>
+![bx1](https://user-images.githubusercontent.com/89090776/227889927-e99e9214-430c-4f8c-be36-b95ed407fed4.jpg)<br>
+Figure4:  In the above figure you can see my account is running at ```sepolia test network```<br>
 
 
 
