@@ -13,6 +13,8 @@ Figure3: Then we will click ```Connect``` button <br>
 Figure4:  In the above figure you can see my account is running at ```sepolia test network```<br>
 ![bx2](https://user-images.githubusercontent.com/89090776/227892451-3f2e9bfd-ffc4-446b-a1e2-d121db18e2e6.jpg)
 Figure5: Here in the above figure we can see when we click the ```Deploy``` button the ```metamask``` window pops up and ask us whethet we want to deploy this contract or not<br>
+![bx3](https://user-images.githubusercontent.com/89090776/227894829-1d1c1623-e7d6-4481-9e6a-e04fea601f6a.jpg)
+Figure6: here in the above figure we can see when we click the ```Data``` option of this window we see the massive ```HEX DATA``` which is actually the ```contract akrkSimplestorage``` we have created<br>
 
 
 
