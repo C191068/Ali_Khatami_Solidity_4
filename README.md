@@ -11,6 +11,10 @@ Figure2:Then we will pick up our metamask account and select ```Next```<br>
 Figure3: Then we will click ```Connect``` button <br>
 ![bx1](https://user-images.githubusercontent.com/89090776/227889927-e99e9214-430c-4f8c-be36-b95ed407fed4.jpg)<br>
 Figure4:  In the above figure you can see my account is running at ```sepolia test network```<br>
+![bx2](https://user-images.githubusercontent.com/89090776/227892451-3f2e9bfd-ffc4-446b-a1e2-d121db18e2e6.jpg)
+Figure5: Here in the above figure we can see when we click the ```Deploy``` button the ```metamask``` window pops up and ask us whethet we want to deploy this contract or not<br>
+
+
 
 
 
