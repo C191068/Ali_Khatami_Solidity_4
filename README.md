@@ -19,7 +19,12 @@ Figure6:Here in the above figure we will click on ```Reveal secret recovery phra
 Figure7:Here we are notified that our wallet is created successfully
 ![bw8](https://user-images.githubusercontent.com/89090776/229457967-29acda06-f9ef-4998-bd85-7cab8b9fea8a.jpg)
 Figure8: here we can see that our wallert contains 0 ether
-
+![bw9](https://user-images.githubusercontent.com/89090776/229462131-d5515ebe-52cb-4f4b-b64b-6297bd0d0de3.jpg)
+Figure9: here we have to click ```Show/Hide test networks```
+![bw10](https://user-images.githubusercontent.com/89090776/229462711-7fb9915c-cf4e-45ea-877a-7da2e61e2030.jpg)
+Figure10:Then an ```Advanced``` section will appear and switch to ```On``` the ```Show test networks``` section
+![bw11](https://user-images.githubusercontent.com/89090776/229463691-a0b6395e-48ba-45ae-9ead-2d21b955171c.jpg)
+Figure11: then fake test networks will appear and we will select ```Sepolia test network```
 
 <br><br>
 ### Deploying our First Contract
@@ -39,6 +44,39 @@ Figure5: Here in the above figure we can see when we click the ```Deploy``` butt
 We can also all payment information for  transaction for deploying this contract but as we are on ```sepolia test network``` it is a fake ethereum
 ![bx3](https://user-images.githubusercontent.com/89090776/227894829-1d1c1623-e7d6-4481-9e6a-e04fea601f6a.jpg)
 Figure6: here in the above figure we can see when we click the ```Data``` option of this window we see the massive ```HEX DATA``` which is actually the ```contract akrkSimplestorage``` we have created<br>
+
+![bw13](https://user-images.githubusercontent.com/89090776/229464319-9008027b-ee8b-4009-865f-692303468a5c.jpg)
+Figure18: As our wallet account do not have enough ```SepoliaETH``` to pay for transaction we need to request ```SepoliaETH``` from this link 
+https://faucets.chain.link/
+
+![bw14](https://user-images.githubusercontent.com/89090776/229464804-dee7350f-21e8-4a99-8988-c8db1ee5625b.jpg)
+Figure19: From ```Connect your Wallet``` we will select ```Metamask``` in this way
+![bw15](https://user-images.githubusercontent.com/89090776/229465126-383ab8d1-a084-44f7-b16c-dd44d4f52652.jpg)
+Figure20: It will get connect with our Metamask wallet account
+![bw18](https://user-images.githubusercontent.com/89090776/229466382-9362d06b-be89-40cb-9f8f-01a88f8a8dca.jpg)
+figure21: here the priamry condition is to request test ether is ```Login via Twitter```  and click the ```Send Request``` button
+![bw21](https://user-images.githubusercontent.com/89090776/229466953-c7ed29fd-d0cf-4011-bdf6-4636c6d557cc.jpg)
+Figure22: here in the figure we can see that request have been completed successfully
+![bw22](https://user-images.githubusercontent.com/89090776/229467543-a3810d9d-a8ab-43fe-b014-5124741475b0.jpg)
+Figure23: here we have got ```0.1 SepoliaEth``` in our account
+![bw23](https://user-images.githubusercontent.com/89090776/229468079-02bceece-5fb5-4319-a4be-3126cc64de83.jpg)
+![bw24](https://user-images.githubusercontent.com/89090776/229468113-1ac8aee8-c3d4-4850-ad7f-85d6dfda3399.jpg)
+![bw25](https://user-images.githubusercontent.com/89090776/229468161-d0591b5a-1d67-40ca-9c18-cae95ed81e1a.jpg)
+![bw26](https://user-images.githubusercontent.com/89090776/229468205-2f07b095-1a02-419f-bc7e-865a38eab0d4.jpg)
+![bw27](https://user-images.githubusercontent.com/89090776/229468247-f5da8813-b5c1-4d7c-9bc0-b3aa5f3e2d09.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
