@@ -15,21 +15,10 @@ Figure4: The we will need create a password and click on ```Create new wallet```
 Figure5:Then we will click on ```Secure my wallet(recommended)``` button
 ![bw6](https://user-images.githubusercontent.com/89090776/229456374-feb28808-e1c6-4152-9b3d-3c3b3aba2337.jpg)
 Figure6:Here in the above figure we will click on ```Reveal secret recovery phrase``` button and keep those 12 secret word safe to us and shall not reveal to anyone
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![bw7](https://user-images.githubusercontent.com/89090776/229457301-2bc54fff-be45-41cf-886b-787e43f7807b.jpg)
+Figure7:Here we are notified that our wallet is created successfully
+![bw8](https://user-images.githubusercontent.com/89090776/229457967-29acda06-f9ef-4998-bd85-7cab8b9fea8a.jpg)
+Figure8: here we can see that our wallert contains 0 ether
 
 
 <br><br>
