@@ -1,4 +1,38 @@
 ## Ali_Khatami_Solidity_4
+### Creating our first wallet at Metamask
+Metamask is a digital wallet that allows you to securely store, manage, and use cryptocurrencies like Ethereum, on your computer or mobile device. It is an extension for web browsers like Google Chrome or Mozilla Firefox that acts as a bridge between the internet and blockchain networks. Metamask makes it easy for users to interact with decentralized applications, also known as dApps, by providing a user-friendly interface for managing cryptocurrency transactions. With Metamask, users can send and receive cryptocurrency, access decentralized exchanges, and participate in blockchain-based applications without needing to have technical knowledge of blockchain technology.<br>
+
+![bw1](https://user-images.githubusercontent.com/89090776/229453645-ec99c901-f57c-4a21-be9c-6eb9d8607b4e.jpg)
+Figure1: We will click the above link
+
+![bw2](https://user-images.githubusercontent.com/89090776/229454593-b1830afd-f8a9-41fa-a236-1c05a0db2350.jpg)
+Figure2:Then we will click on ```Create a new Wallet``` button
+![bw3](https://user-images.githubusercontent.com/89090776/229454846-b115ef17-c8c5-4b49-87d5-3e61e4a0ab22.jpg)
+Figure3: Then we will click on ```I Agree``` button
+![bw4](https://user-images.githubusercontent.com/89090776/229455313-a630407e-2ac5-498d-a38d-c39a8e2d0a52.jpg)
+Figure4: The we will need create a password and click on ```Create new wallet``` button
+![bw5](https://user-images.githubusercontent.com/89090776/229455931-7660dd94-21c8-4456-b1a4-a8cb7e2a11b6.jpg)
+Figure5:Then we will click on ```Secure my wallet(recommended)``` button
+![bw6](https://user-images.githubusercontent.com/89090776/229456374-feb28808-e1c6-4152-9b3d-3c3b3aba2337.jpg)
+Figure6:Here in the above figure we will click on ```Reveal secret recovery phrase``` button and keep those 12 secret word safe to us and shall not reveal to anyone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
 ### Deploying our First Contract
 Here we will deploy our contract ```akrkSimplestorage``` to a real network.
 
