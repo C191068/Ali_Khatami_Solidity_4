@@ -1,3 +1,4 @@
+
 ## Ali_Khatami_Solidity_4
 ### Creating our first wallet at Metamask
 Metamask is a digital wallet that allows you to securely store, manage, and use cryptocurrencies like Ethereum, on your computer or mobile device. It is an extension for web browsers like Google Chrome or Mozilla Firefox that acts as a bridge between the internet and blockchain networks. Metamask makes it easy for users to interact with decentralized applications, also known as dApps, by providing a user-friendly interface for managing cryptocurrency transactions. With Metamask, users can send and receive cryptocurrency, access decentralized exchanges, and participate in blockchain-based applications without needing to have technical knowledge of blockchain technology.<br>
@@ -65,6 +66,7 @@ Figure23: here we have got ```0.1 SepoliaEth``` in our account
 ![bw26](https://user-images.githubusercontent.com/89090776/229468205-2f07b095-1a02-419f-bc7e-865a38eab0d4.jpg)
 ![bw27](https://user-images.githubusercontent.com/89090776/229468247-f5da8813-b5c1-4d7c-9bc0-b3aa5f3e2d09.jpg)
 
+![vs](https://user-images.githubusercontent.com/89090776/230765191-033fe89d-9eb9-42cd-aefa-9b5ce6689528.jpg)
 
 
 
