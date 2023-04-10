@@ -61,12 +61,22 @@ Figure22: here in the figure we can see that request have been completed success
 ![bw22](https://user-images.githubusercontent.com/89090776/229467543-a3810d9d-a8ab-43fe-b014-5124741475b0.jpg)
 Figure23: here we have got ```0.1 SepoliaEth``` in our account
 ![bw23](https://user-images.githubusercontent.com/89090776/229468079-02bceece-5fb5-4319-a4be-3126cc64de83.jpg)
+Figure24: here we can see the payment information for this transaction and here we can see it gonna cost ```0.00140673SepoliaETH```  and then we will click ```button```
 ![bw24](https://user-images.githubusercontent.com/89090776/229468113-1ac8aee8-c3d4-4850-ad7f-85d6dfda3399.jpg)
+Figure25: After a slight delay we will see that the transaction has occured
 ![bw25](https://user-images.githubusercontent.com/89090776/229468161-d0591b5a-1d67-40ca-9c18-cae95ed81e1a.jpg)
+Figure26: Here we see that that the ```0.1 SepoliaEth``` of our account reduced to ```0.0986SepoliaEth```
 ![bw26](https://user-images.githubusercontent.com/89090776/229468205-2f07b095-1a02-419f-bc7e-865a38eab0d4.jpg)
+Figure27: if we click on ```view on etherscan``` link at our console we will see the whole transaction details of the contract we have deployed 
 ![bw27](https://user-images.githubusercontent.com/89090776/229468247-f5da8813-b5c1-4d7c-9bc0-b3aa5f3e2d09.jpg)
-
+Figure28: if we click on ```view on etherscan``` link at our console we will see the whole transaction details of the contract we have deployed
+![w1](https://user-images.githubusercontent.com/89090776/230834727-fa2da7a3-160f-4dc8-9ba5-07a8fa4fdc05.jpg)
+Figure29: At Deploy and Run Transaction tab at deployed contract section we will copy the contract address of our ```akrkSimplestorage``` contract
 ![vs](https://user-images.githubusercontent.com/89090776/230765191-033fe89d-9eb9-42cd-aefa-9b5ce6689528.jpg)
+Figure30: We wil paste it at search bar of ```https://sepolia.etherscan.io/``` and we will get the contract information we have deployed and we can see that first transaction is contract creation.
+
+
+
 
 
 
