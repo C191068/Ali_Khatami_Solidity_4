@@ -1,6 +1,6 @@
 
 
-## Ali_Khatami_Solidity_4
+## Ali_Khatami_Solidity_4(Learning from the video of Pattrick Collins)
 ### Creating our first wallet at Metamask
 Metamask is a digital wallet that allows you to securely store, manage, and use cryptocurrencies like Ethereum, on your computer or mobile device. It is an extension for web browsers like Google Chrome or Mozilla Firefox that acts as a bridge between the internet and blockchain networks. Metamask makes it easy for users to interact with decentralized applications, also known as dApps, by providing a user-friendly interface for managing cryptocurrency transactions. With Metamask, users can send and receive cryptocurrency, access decentralized exchanges, and participate in blockchain-based applications without needing to have technical knowledge of blockchain technology.<br>
 
@@ -90,7 +90,14 @@ Figure34: If we click on ```viiew on etherscan``` (https://sepolia.etherscan.io/
 ![w7](https://user-images.githubusercontent.com/89090776/230843485-e162ace2-35c5-4ecf-866b-f641324cfc3a.jpg)\
 Figure35: Similarly at ```addCitizen``` button field we will type ```Khatami,68``` and the Metamask will again pop up and will show the transaction information for deploying this contract.
 
+### THE EVM
 
+EVM(Etherium Virtual Machine) is a standard of how to deploy contract to blockchain. And any blockchain that implements EVM we can deploy solidiy code too.<br>
+Examples of EVM compatible blockchain are Avalance,Polygon and Fantom.We can write here solidity code and deploy to these blockchains.
+
+
+![w8](https://user-images.githubusercontent.com/89090776/230857708-296d6081-801c-485b-a6e8-5de2f5381223.jpg)
+Figure36: Whennever we hit the ```compile akrkSimplestorage``` button it compiles the contract to the EVM
 
 
 
