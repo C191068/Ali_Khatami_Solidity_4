@@ -1,4 +1,5 @@
 
+
 ## Ali_Khatami_Solidity_4
 ### Creating our first wallet at Metamask
 Metamask is a digital wallet that allows you to securely store, manage, and use cryptocurrencies like Ethereum, on your computer or mobile device. It is an extension for web browsers like Google Chrome or Mozilla Firefox that acts as a bridge between the internet and blockchain networks. Metamask makes it easy for users to interact with decentralized applications, also known as dApps, by providing a user-friendly interface for managing cryptocurrency transactions. With Metamask, users can send and receive cryptocurrency, access decentralized exchanges, and participate in blockchain-based applications without needing to have technical knowledge of blockchain technology.<br>
@@ -75,6 +76,19 @@ Figure29: At Deploy and Run Transaction tab at deployed contract section we will
 ![vs](https://user-images.githubusercontent.com/89090776/230765191-033fe89d-9eb9-42cd-aefa-9b5ce6689528.jpg)
 Figure30: We wil paste it at search bar of ```https://sepolia.etherscan.io/``` and we will get the contract information we have deployed and we can see that first transaction is contract creation.
 
+![w3](https://user-images.githubusercontent.com/89090776/230838001-45fb5e5e-be0f-407e-8435-9d6754448f7c.jpg)
+Figure31: here we can see when we click ```retrieve```, ```nametoPreferredNumber``` and ```individuals``` buuton ```Metamask``` does not pops up because<br>
+these three buttons are created due to non-gas calling functions as they are view functions, simply transaction will not occur after hiiting these buttons.
+
+![w4](https://user-images.githubusercontent.com/89090776/230840857-3bb9587f-5d25-4953-baa9-53587b2e7d7b.jpg)
+Figure32: At store buuton field we add a uint56 preferredNumber ```68``` and click the ```store``` button and see that Metamask pop and showing the transaction information for deploying this contract and we will click the ```Confirm``` button
+
+![w5](https://user-images.githubusercontent.com/89090776/230842215-1f7858a6-b779-4fac-ad63-1464dd262b2d.jpg)
+Figure33: Thus here we seee that the transactions have occured.
+![w6](https://user-images.githubusercontent.com/89090776/230842945-cfa63f48-c3f4-471d-ae6e-a1684a66032d.jpg)
+Figure34: If we click on ```viiew on etherscan``` (https://sepolia.etherscan.io/) link we will see the whole details information of this transaction.
+![w7](https://user-images.githubusercontent.com/89090776/230843485-e162ace2-35c5-4ecf-866b-f641324cfc3a.jpg)\
+Figure35: Similarly at ```addCitizen``` button field we will type ```Khatami,68``` and the Metamask will again pop up and will show the transaction information for deploying this contract.
 
 
 
